@@ -15,7 +15,7 @@ Scripts/
 db.sqlite3
 
 # Static folder at project root
-/static/
+#/static/
 
 # macOS
 ._*
